@@ -10,6 +10,7 @@ In questa repository è possibile visionare la relazione del primo homework di I
 Per effettuare l'esperimento sulla collezione TREC7, sono stati creati tre indici diversi, settando opportunamente il file in etc/terrier.properties. In seguito, sono stati creati i segueti script per l'automatismo del resto delle fasi:
   - terrier-core-4.4/all_exec.sh
   - terrier-core-4.4/all_exec2.sh
+
 Questi due semplici shell script hanno la funzione di eseguire le varie fasi si retrieval ed evaluation, variando i parametri di linea di comando impostati per il programma terrier-core-4.4/bin/trec_terrier.sh.
 
 Inoltre è stato creato uno script in Python, /parser.py, per il parsing dei risultati, in modo da utilizzarli in seguito negli script Matlab forniti dal Professor. Nicola Ferro per il test ANOVA.

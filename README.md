@@ -1,5 +1,7 @@
 # Information Retrieval: homework 1
-Autore: Mario Avdullaj
+Studente: Mario Avdullaj
+Matriola: 1184284
+Anno: 2018/2019
 
 ## Risultati
 
@@ -17,4 +19,4 @@ Inoltre è stato creato uno script in Python, /parser.py, per il parsing dei ris
 
 Lo script /get_data.sh si occupa di eseguire i due script sopracitati, utilizzare lo script di parsing per parsare i vari risultati ed infine organizzarli in cartelle strutturate.
 
-Infine, sono stati creati due script Matlab /process_anova1.m e /process_anova2.m per il caricamento automatico nello stack delle matrici di valori utilizzati poi per effettuare i test statistici con lo script /ir_anova.m
+Infine, sono stati creati due script Matlab /process_anova1.m e /process_anova2.m per il caricamento automatico nello stack delle matrici di valori utilizzati poi per effettuare i test statistici con lo script /ir_anova.m.
